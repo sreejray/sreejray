@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on a Full Stack Crypto Dashboard project namely [Crypto-REX](https://github.com/jaygen-nexus/Cryptorex-JSON.git)
-
-- 👾 Also built an AI Bot namely [Dexter-GPT](https://github.com/jaygen-nexus/Dexter-GPT.git).
+- 👾 Also built a Telegram AI Bot namely [Dexgram-GPT](https://github.com/jaygen-nexus/Dexter-GPT.git).
 
 - 🌱 I’m currently learning **Cyber-Security**
 
