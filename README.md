@@ -16,8 +16,8 @@
 <a href="https://gmail.com/sreejray@gmail.com" target="_blank">
 <img align="center" src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail align="center" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img align="center" src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter align="center" style="margin-bottom: 5px;" />
+<a href="https://linedin.com/in/sreejray" target="_blank">
+<img align="center" src=https://img.shields.io/badge/linkedin-%2300acee.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin align="center" style="margin-bottom: 5px;" />
 </a>
 </p>
 
