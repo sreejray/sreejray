@@ -12,8 +12,3 @@
 <p align="center"><a href="https://gmail.com/imjaydebray@gmail.com" target="_blank">
 <img align="center" src=https://img.shields.io/badge/gmail-%2324292e.svg?&style=for-the-badge&logo=gmail&logoColor=red alt=gmail align="center" style="margin-bottom: 5px;" />
 </a></p>-->
-
-## ꋪꍏꈤꀸꂦꎭ ꀸꍟᐯ ꎭꍟꎭꍟ:
-<p align="center"><img src='https://randommeme-five.vercel.app/' style="height: 400px;"/></p>
-
----
